@@ -1,5 +1,5 @@
 # Hypertrophy Home
-Mock homepage of 'Hypertrophy', fictional company which provides coaching and consulting for bodybuilders and strength athletes. This is the first markup and styling I did after learning some HTML and CSS.
+Homepage of 'Hypertrophy', company which provides coaching and consulting for bodybuilders and strength athletes. This is the first markup and styling I did after learning some HTML and CSS. Hypertrophy is not a real company. Model in images: Malachi Spencer.
 
 ## Usage
 
