@@ -1,10 +1,12 @@
 # Hypertrophy Home
-Homepage of 'Hypertrophy', company which provides coaching and consulting for bodybuilders and strength athletes. This is the first markup and styling I did after learning some HTML and CSS. Hypertrophy is not a real company. Model in images: Malachi Spencer.
+
+Homepage of 'Hypertrophy', mock company which provides coaching and consulting for bodybuilders and strength athletes. This is the first markup and styling I did after learning some HTML and CSS. 
 
 ## Usage
 
-```shell
-index.html
+```
+1) Clone this repo.
+2) Open index.html in your browser.
 ```
 
 ### Top
